@@ -30,8 +30,18 @@ public interface IOhmValueCalculator
 }
 
 ```
+
+
 ### How to run the color-code-calculator project
+
+
 Step 1: Install Node.js and npm if they are not already on your machine
+
+
 Step 2: Clone or download the project to your local folder
+
+
 Step 3: Open the project in visual code & run npm install on the terminal window
-Step 4: To build & run the project run npm start
+
+
+Step 4: To build & run the project, run npm start
